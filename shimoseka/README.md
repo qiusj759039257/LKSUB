@@ -1,6 +1,6 @@
 # 下ネタという概念が存在しない退屈な世界
 
-![poster](http://image17.poco.cn/mypoco/myphoto/20150704/20/17393522120150704202914010.jpg)
+![poster](poster.jpg)
 
 ## STORY
 

@@ -1,6 +1,6 @@
 # ƒê¤¨¤Ê¤¤±ËÅ®¤ÎÓý¤Æ¤«¤¿
 
-![poster](http://image15.poco.cn/mypoco/myphoto/20150107/23/1739352212015010723510005.jpg)
+![poster](poster.jpg)
 
 ## STORY
 
