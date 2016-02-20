@@ -7,7 +7,7 @@ LKSUB
 - 2015
     - [落第騎士の英雄譚 / 落第骑士英雄谭](rakudai)
     - [Charlotte](charlotte)
-    - [艦これ / 舰队收藏](kancolle)
+    - [艦隊これくしょん -艦これ- / 舰队Collection](kancolle)
     - [High Shool DxD BorN](HSDxD_BorN)
     - [冴えない彼女の育てかた / 路人女主的养成方法](saenai)
     - [下ネタという概念が存在しない退屈な世界 / 下流梗不存在的灰暗世界](shimoseka)
