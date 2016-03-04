@@ -11,6 +11,7 @@ LKSUB
     - [High Shool DxD BorN](HSDxD_BorN)
     - [冴えない彼女の育てかた / 路人女主的养成方法](saenai)
     - [下ネタという概念が存在しない退屈な世界 / 下流梗不存在的灰暗世界](shimoseka)
+    - [俺がお嬢様学校に「庶民サンプル」として拉致られた件 / 我被绑架到贵族女校当“庶民样本”](shomin)
     - [Lance N' Masques / 枪与假面](lance)
 - 2014
     - [六畳間の侵略者!? / 三坪房间的侵略者！？](rokujouma)
