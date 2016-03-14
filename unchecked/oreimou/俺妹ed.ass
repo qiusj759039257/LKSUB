@@ -1,0 +1,51 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Scroll Position: 2
+Active Line: 27
+Video Zoom Percent: 1
+Video File: 02\44313.mp4
+Video Aspect Ratio: c1.77778
+Video Position: 33894
+Audio URI: 02\44313.mp4
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:22:28.04,0:22:32.84,Default,,0,0,0,,{\a5}チラリ 気まずい距離感
+Dialogue: 0,0:22:28.04,0:22:32.84,Default,,0,0,0,,{\a3}偷偷瞄你一眼 这让人心跳的距离感
+Dialogue: 0,0:22:33.13,0:22:38.40,Default,,0,0,0,,{\a5}焦らすような目で見ないで 通報します
+Dialogue: 0,0:22:33.13,0:22:38.40,Default,,0,0,0,,{\a3}别用那挑逗的眼神看着我 我要报警咯
+Dialogue: 0,0:22:38.46,0:22:43.01,Default,,0,0,0,,{\a5}ゆらり 冗談めかして
+Dialogue: 0,0:22:38.46,0:22:43.01,Default,,0,0,0,,{\a3}我轻轻地晃动身子 对着你装出开玩笑的样子
+Dialogue: 0,0:22:43.43,0:22:50.78,Default,,0,0,0,,{\a5}今日も調子のいいことばかり ココロふわり
+Dialogue: 0,0:22:43.43,0:22:50.78,Default,,0,0,0,,{\a3}今天心情愉快 有些飘飘然
+Dialogue: 0,0:22:51.66,0:22:55.77,Default,,0,0,0,,{\a5}居たいくせに平気な振りて
+Dialogue: 0,0:22:51.66,0:22:55.77,Default,,0,0,0,,{\a3}虽然明明想呆在你的身边 却装作不以为然
+Dialogue: 0,0:22:55.84,0:23:01.94,Default,,0,0,0,,{\a5}そんな 小指の先まで嘘つきだけと
+Dialogue: 0,0:22:55.84,0:23:01.94,Default,,0,0,0,,{\a3}就是这么的口是心非
+Dialogue: 0,0:23:02.02,0:23:06.11,Default,,0,0,0,,{\a5}「大嫌い」のフィルター越しに
+Dialogue: 0,0:23:02.02,0:23:06.11,Default,,0,0,0,,{\a3}透过「最讨厌」的滤镜
+Dialogue: 0,0:23:06.21,0:23:11.03,Default,,0,0,0,,{\a5}伝わる熱は本物Or Not？
+Dialogue: 0,0:23:06.21,0:23:11.03,Default,,0,0,0,,{\a3}所传达的那份热情是否为真？
+Dialogue: 0,0:23:11.03,0:23:15.28,Default,,0,0,0,,{\a5}合言葉「通報しました」
+Dialogue: 0,0:23:11.03,0:23:15.28,Default,,0,0,0,,{\a3}暗号是「我已经报警了」
+Dialogue: 0,0:23:16.18,0:23:21.10,Default,,0,0,0,,{\a5}ありがとうの気持ちを伝えたくて
+Dialogue: 0,0:23:16.18,0:23:21.10,Default,,0,0,0,,{\a3}想要传达给你我的感谢之情
+Dialogue: 0,0:23:21.10,0:23:23.12,Default,,0,0,0,,{\a5}今すぐ だから
+Dialogue: 0,0:23:21.10,0:23:23.12,Default,,0,0,0,,{\a3}就是现在 所以
+Dialogue: 0,0:23:23.31,0:23:26.43,Default,,0,0,0,,{\a5}真っ直ぐあなたを見るの
+Dialogue: 0,0:23:23.31,0:23:26.43,Default,,0,0,0,,{\a3}我要认真的看着你
+Dialogue: 0,0:23:26.51,0:23:33.57,Default,,0,0,0,,{\a5}掴んだ手を ずっと離さないように強くお願い
+Dialogue: 0,0:23:26.51,0:23:33.57,Default,,0,0,0,,{\a3}用心祈祷这手心的温暖永远不会消失
+Dialogue: 0,0:23:33.63,0:23:39.25,Default,,0,0,0,,{\a5}いつまでも私のDearね
+Dialogue: 0,0:23:33.63,0:23:39.25,Default,,0,0,0,,{\a3}请你永远做我的Dear哦

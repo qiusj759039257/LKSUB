@@ -1,0 +1,47 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Audio URI: [Nimei-Raws] 俺の妹がこんなに可愛いわけがない。 第11話 「一人暮らしの兄貴の部屋に妹たちが押しかけるわけがない」 (MX 1280x720 x264).mp4
+Video Zoom Percent: 0.5
+Scroll Position: 0
+Active Line: 25
+Video File: [Nimei-Raws] 俺の妹がこんなに可愛いわけがない。 第11話 「一人暮らしの兄貴の部屋に妹たちが押しかけるわけがない」 (MX 1280x720 x264).mp4
+Video Aspect Ratio: c1.77778
+Video Position: 37872
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:22:23.33,0:22:32.28,Default,,0,0,0,,{\a5}何気ない君の言葉が降りてきて、思う
+Dialogue: 0,0:22:23.33,0:22:32.28,Default,,0,0,0,,{\a3}你莫不禁心的一句话让我觉得
+Dialogue: 0,0:22:32.66,0:22:35.63,Default,,0,0,0,,{\a5}それもいいかなぁって
+Dialogue: 0,0:22:32.66,0:22:35.63,Default,,0,0,0,,{\a3}那样也挺好的
+Dialogue: 0,0:22:35.85,0:22:41.66,Default,,0,0,0,,{\a5}ねぇ、外は少し寒くて
+Dialogue: 0,0:22:35.85,0:22:41.66,Default,,0,0,0,,{\a3}呐 外面有些冷
+Dialogue: 0,0:22:41.66,0:22:47.60,Default,,0,0,0,,{\a5}また冬が来るんだね
+Dialogue: 0,0:22:41.66,0:22:47.60,Default,,0,0,0,,{\a3}冬天又到来了
+Dialogue: 0,0:22:48.40,0:22:53.62,Default,,0,0,0,,{\a5}いつの日か…夢を見ていた
+Dialogue: 0,0:22:48.40,0:22:53.62,Default,,0,0,0,,{\a3}梦中见到 总有一天
+Dialogue: 0,0:22:53.78,0:23:00.69,Default,,0,0,0,,{\a5}こたつ、ふたりでみかん
+Dialogue: 0,0:22:53.78,0:23:00.69,Default,,0,0,0,,{\a3}两人坐在被炉里一起吃橘子
+Dialogue: 0,0:23:00.79,0:23:06.50,Default,,0,0,0,,{\a5}狭い家だけれど
+Dialogue: 0,0:23:00.79,0:23:06.50,Default,,0,0,0,,{\a3}虽然只是个狭小的家
+Dialogue: 0,0:23:06.57,0:23:14.34,Default,,0,0,0,,{\a5}しあわせで溢れている
+Dialogue: 0,0:23:06.57,0:23:14.34,Default,,0,0,0,,{\a3}不过充满了幸福
+Dialogue: 0,0:23:14.43,0:23:18.61,Default,,0,0,0,,{\a5}変わらない景色
+Dialogue: 0,0:23:14.43,0:23:18.61,Default,,0,0,0,,{\a3}一成不变的景色
+Dialogue: 0,0:23:18.74,0:23:22.23,Default,,0,0,0,,{\a5}そう、いつものように
+Dialogue: 0,0:23:18.74,0:23:22.23,Default,,0,0,0,,{\a3}没错 就如同往常那样
+Dialogue: 0,0:23:22.23,0:23:25.62,Default,,0,0,0,,{\a5}笑っていられる
+Dialogue: 0,0:23:22.23,0:23:25.62,Default,,0,0,0,,{\a3}还能笑着
+Dialogue: 0,0:23:25.73,0:23:31.52,Default,,0,0,0,,{\a5}あぁ、そんなふうになれたら
+Dialogue: 0,0:23:25.73,0:23:31.52,Default,,0,0,0,,{\a3}啊 如果能那样的话
+Dialogue: 0,0:23:31.52,0:23:36.90,Default,,0,0,0,,{\a5}うれしいな
+Dialogue: 0,0:23:31.52,0:23:36.90,Default,,0,0,0,,{\a3}该多好啊
