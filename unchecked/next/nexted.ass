@@ -1,0 +1,47 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Scroll Position: 8
+Active Line: 25
+Video Zoom Percent: 1
+Audio URI: next01.mp4
+Video File: next01.mp4
+Video Aspect Ratio: c1.77778
+Video Position: 34015
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:22:40.20,0:22:43.63,Default,,0,0,0,,{\a5}光った はずのあの星
+Dialogue: 0,0:22:40.20,0:22:43.63,Default,,0,0,0,,{\a3}好像闪了一下的那颗星星
+Dialogue: 0,0:22:43.63,0:22:48.66,Default,,0,0,0,,{\a5}迷った 雲が邪魔して見えなくなる
+Dialogue: 0,0:22:43.63,0:22:48.66,Default,,0,0,0,,{\a3}不见了 被云朵遮起失去踪影
+Dialogue: 0,0:22:49.32,0:22:52.37,Default,,0,0,0,,{\a5}何を信じたらいい
+Dialogue: 0,0:22:49.32,0:22:52.37,Default,,0,0,0,,{\a3}我要去相信什么才好
+Dialogue: 0,0:22:53.30,0:22:56.66,Default,,0,0,0,,{\a5}不安定 すぎる世界で
+Dialogue: 0,0:22:53.30,0:22:56.66,Default,,0,0,0,,{\a3}在这过于不安定的世界
+Dialogue: 0,0:22:56.66,0:23:01.77,Default,,0,0,0,,{\a5}育った 宝物壊しかけてた
+Dialogue: 0,0:22:56.66,0:23:01.77,Default,,0,0,0,,{\a3}所孕育的宝物即将毁灭
+Dialogue: 0,0:23:02.38,0:23:05.45,Default,,0,0,0,,{\a5}なくすのが怖くて
+Dialogue: 0,0:23:02.38,0:23:05.45,Default,,0,0,0,,{\a3}害怕失去
+Dialogue: 0,0:23:06.42,0:23:09.35,Default,,0,0,0,,{\a5}不条理だって ため息つき
+Dialogue: 0,0:23:06.42,0:23:09.35,Default,,0,0,0,,{\a3}就算不合理 也只能叹气
+Dialogue: 0,0:23:09.35,0:23:12.61,Default,,0,0,0,,{\a5}鳥籠であがいてた日々
+Dialogue: 0,0:23:09.35,0:23:12.61,Default,,0,0,0,,{\a3}这在鸟笼中挣扎的每一天
+Dialogue: 0,0:23:12.99,0:23:19.09,Default,,0,0,0,,{\a5}同じ空を見上げてたんだ 僕らは
+Dialogue: 0,0:23:12.99,0:23:19.09,Default,,0,0,0,,{\a3}同望一片天的我们
+Dialogue: 0,0:23:19.09,0:23:25.65,Default,,0,0,0,,{\a5}君の手を握ったとき 握り返してくれたね
+Dialogue: 0,0:23:19.09,0:23:25.65,Default,,0,0,0,,{\a3}握紧你的手时候 你也紧紧地握住了我的手
+Dialogue: 0,0:23:25.65,0:23:32.15,Default,,0,0,0,,{\a5}繋がった この手は どんな羽より強いんだ
+Dialogue: 0,0:23:25.65,0:23:32.15,Default,,0,0,0,,{\a3}牵在一起的手 比什么翅膀都要强大
+Dialogue: 0,0:23:32.15,0:23:38.70,Default,,0,0,0,,{\a5}翼なんてなくたって もっと高く飛べるんだ
+Dialogue: 0,0:23:32.15,0:23:38.70,Default,,0,0,0,,{\a3}就算没有翅膀 我们也能飞的更高
+Dialogue: 0,0:23:38.70,0:23:47.22,Default,,0,0,0,,{\a5}きっと今なら大丈夫 大空輝く星を掴もう
+Dialogue: 0,0:23:38.70,0:23:47.22,Default,,0,0,0,,{\a3}现在的我们一定可以抓住天空中那颗闪耀的星星

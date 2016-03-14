@@ -1,0 +1,51 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Audio URI: imo06raw.mp4
+Scroll Position: 4
+Active Line: 29
+Video Zoom Percent: 0.5
+Video File: imo06raw.mp4
+Video Aspect Ratio: c1.77778
+Video Position: 33850
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:22:14.75,0:22:21.82,Default,,0,0,0,,{\a5}白 今日の服は 喜んでくれるかな
+Dialogue: 0,0:22:14.75,0:22:21.82,Default,,0,0,0,,{\a3}白色 今天的衣服  你会不会喜欢呢
+Dialogue: 0,0:22:21.97,0:22:29.09,Default,,0,0,0,,{\a5}黒 部屋の中で 蹲る小さいな子猫
+Dialogue: 0,0:22:21.97,0:22:29.09,Default,,0,0,0,,{\a3}黑色 房间里 蜷成一团的小猫咪
+Dialogue: 0,0:22:37.60,0:22:42.99,Default,,0,0,0,,{\a5}ああ 早く気付きたいな
+Dialogue: 0,0:22:37.60,0:22:42.99,Default,,0,0,0,,{\a3}啊 好想快点发觉到
+Dialogue: 0,0:22:44.76,0:22:52.38,Default,,0,0,0,,{\a5}もう 頭はあなたっていっぱい ドキドキ
+Dialogue: 0,0:22:44.76,0:22:52.38,Default,,0,0,0,,{\a3}脑袋里已全部都是你  心中小鹿乱撞
+Dialogue: 0,0:22:52.38,0:22:58.38,Default,,0,0,0,,{\a5}ああ こんな気持ちは初めて
+Dialogue: 0,0:22:52.38,0:22:58.38,Default,,0,0,0,,{\a3}啊 这种心情还是第一次
+Dialogue: 0,0:22:58.38,0:23:04.81,Default,,0,0,0,,{\a5}もっと もっと 知ってほしいよ 私の事
+Dialogue: 0,0:22:58.38,0:23:04.81,Default,,0,0,0,,{\a3}想更多 更多 我的事情
+Dialogue: 0,0:23:05.06,0:23:06.73,Default,,0,0,0,,{\a5}あなただけ
+Dialogue: 0,0:23:05.06,0:23:06.73,Default,,0,0,0,,{\a3}只让你了解
+Dialogue: 0,0:23:06.73,0:23:09.81,Default,,0,0,0,,{\a5}白 似合うでしょう
+Dialogue: 0,0:23:06.73,0:23:09.81,Default,,0,0,0,,{\a3}白色 很适合吧
+Dialogue: 0,0:23:10.25,0:23:13.54,Default,,0,0,0,,{\a5}今日の為の特別
+Dialogue: 0,0:23:10.25,0:23:13.54,Default,,0,0,0,,{\a3}特别为今天准备的
+Dialogue: 0,0:23:13.87,0:23:17.04,Default,,0,0,0,,{\a5}黒 あなたの声
+Dialogue: 0,0:23:13.87,0:23:17.04,Default,,0,0,0,,{\a3}黑色 你的声音
+Dialogue: 0,0:23:17.24,0:23:20.74,Default,,0,0,0,,{\a5}待ってるの 本音で欲しくて
+Dialogue: 0,0:23:17.24,0:23:20.74,Default,,0,0,0,,{\a3}一直在等着 想知道你的心意
+Dialogue: 0,0:23:21.05,0:23:24.11,Default,,0,0,0,,{\a5}ほら 優しさ空
+Dialogue: 0,0:23:21.05,0:23:24.11,Default,,0,0,0,,{\a3}看 那温柔的天空
+Dialogue: 0,0:23:24.59,0:23:27.95,Default,,0,0,0,,{\a5}その眩しい笑顔で
+Dialogue: 0,0:23:24.59,0:23:27.95,Default,,0,0,0,,{\a3}看着你那灿烂的笑容
+Dialogue: 0,0:23:28.18,0:23:31.61,Default,,0,0,0,,{\a5}もう隠し切れない
+Dialogue: 0,0:23:28.18,0:23:31.61,Default,,0,0,0,,{\a3}我已经隐藏不住了
+Dialogue: 0,0:23:31.80,0:23:35.45,Default,,0,0,0,,{\a5}溢れ出すこの感情
+Dialogue: 0,0:23:31.80,0:23:35.45,Default,,0,0,0,,{\a3}这不停涌出的感情

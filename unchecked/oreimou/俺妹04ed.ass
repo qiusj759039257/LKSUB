@@ -1,0 +1,47 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Audio URI: ..\..\..\oreimo204200.mp4
+Scroll Position: 0
+Active Line: 21
+Video Zoom Percent: 0.5
+Video File: ..\..\..\oreimo204200.mp4
+Video Aspect Ratio: c1.77778
+Video Position: 34901
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:22:15.42,0:22:20.11,Default,,0,0,0,,{\a4}私のこの気持ち届け
+Dialogue: 0,0:22:15.42,0:22:20.11,Default,,0,0,0,,{\a3}让我的这份心情传达到吧
+Dialogue: 0,0:22:33.42,0:22:38.95,Default,,0,0,0,,{\a4}前を歩く あいつの背中
+Dialogue: 0,0:22:33.42,0:22:38.95,Default,,0,0,0,,{\a3}走在前面的他的后背
+Dialogue: 0,0:22:39.43,0:22:44.91,Default,,0,0,0,,{\a4}大き過ぎて 眩しい過ぎて
+Dialogue: 0,0:22:39.43,0:22:44.91,Default,,0,0,0,,{\a3}太过巨大 太过耀眼
+Dialogue: 0,0:22:45.40,0:22:50.89,Default,,0,0,0,,{\a4}目を合わすと 喧嘩ばかり
+Dialogue: 0,0:22:45.40,0:22:50.89,Default,,0,0,0,,{\a3}每次见面 总是吵架
+Dialogue: 0,0:22:51.23,0:22:56.63,Default,,0,0,0,,{\a4}どしてこうなった 微妙な関係
+Dialogue: 0,0:22:51.23,0:22:56.63,Default,,0,0,0,,{\a3}为什么成了现在这样 微妙的关系
+Dialogue: 0,0:22:56.66,0:23:03.17,Default,,0,0,0,,{\a4}時は流れて 人は大人になってく
+Dialogue: 0,0:22:56.66,0:23:03.17,Default,,0,0,0,,{\a3}随着时间的流逝 人们都慢慢长大
+Dialogue: 0,0:23:03.30,0:23:10.28,Default,,0,0,0,,{\a4}でもこの気持ちはずっと ずっと変わらんないから
+Dialogue: 0,0:23:03.30,0:23:10.28,Default,,0,0,0,,{\a3}但是这份心情却一直 一直不曾改变
+Dialogue: 0,0:23:10.40,0:23:16.82,Default,,0,0,0,,{\a4}神さま どうか私のね 素直にして お願い
+Dialogue: 0,0:23:10.40,0:23:16.82,Default,,0,0,0,,{\a3}神大人啊 请让我能变得坦率些
+Dialogue: 0,0:23:16.94,0:23:22.72,Default,,0,0,0,,{\a4}止めどないこの気持ち 少しでもいい 伝えたい
+Dialogue: 0,0:23:16.94,0:23:22.72,Default,,0,0,0,,{\a3}稍微传达一些 我这无法停下的心情
+Dialogue: 0,0:23:22.94,0:23:28.76,Default,,0,0,0,,{\a4}ああ そして いつの日が 二人並んで歩いて
+Dialogue: 0,0:23:22.94,0:23:28.76,Default,,0,0,0,,{\a3}啊 并且 希望总有一天 能两人走在一起
+Dialogue: 0,0:23:28.94,0:23:34.49,Default,,0,0,0,,{\a4}そっと手を差し出して 触れるあいつの手に
+Dialogue: 0,0:23:28.94,0:23:34.49,Default,,0,0,0,,{\a3}稍微伸出我的手就能摸到他的手
+Dialogue: 0,0:23:34.93,0:23:40.99,Default,,0,0,0,,{\a4}驚いた顔見て ふ笑うんだ
+Dialogue: 0,0:23:34.93,0:23:40.99,Default,,0,0,0,,{\a3}看着他惊讶的表情我微微地笑了

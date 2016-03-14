@@ -1,0 +1,49 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Scroll Position: 2
+Active Line: 27
+Audio URI: imo07t.mkv
+Video Zoom Percent: 0.5
+Video File: imo07t.mkv
+Video Aspect Ratio: c1.77778
+Video Position: 33979
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:22:23.63,0:22:29.81,Default,,0,0,0,,{\a5}お昼寝 目覚める お鍋の音
+Dialogue: 0,0:22:23.63,0:22:29.81,Default,,0,0,0,,{\a3}午睡醒来 听到火锅的声音
+Dialogue: 0,0:22:30.00,0:22:33.12,Default,,0,0,0,,{\a5}いつもの夕方
+Dialogue: 0,0:22:30.00,0:22:33.12,Default,,0,0,0,,{\a3}与往常一样的的傍晚　
+Dialogue: 0,0:22:33.12,0:22:39.20,Default,,0,0,0,,{\a5}トントン 包丁 響いてくる
+Dialogue: 0,0:22:33.12,0:22:39.20,Default,,0,0,0,,{\a3}听到菜刀嗵嗵的声音
+Dialogue: 0,0:22:39.41,0:22:43.84,Default,,0,0,0,,{\a5}お手伝いできるかしら？
+Dialogue: 0,0:22:39.41,0:22:43.84,Default,,0,0,0,,{\a3}有没有什么能帮忙的呢？
+Dialogue: 0,0:22:44.41,0:22:49.76,Default,,0,0,0,,{\a5}優しい背中 美味しいご飯
+Dialogue: 0,0:22:44.41,0:22:49.76,Default,,0,0,0,,{\a3}温柔的背影 美味的米饭
+Dialogue: 0,0:22:49.76,0:22:56.75,Default,,0,0,0,,{\a5}寝る時の絵本と繋いだてと　
+Dialogue: 0,0:22:49.76,0:22:56.75,Default,,0,0,0,,{\a3}让我联想到睡觉之前的连环画
+Dialogue: 0,0:22:57.91,0:23:04.42,Default,,0,0,0,,{\a5}二人のお姉じゃん 優しいから
+Dialogue: 0,0:22:57.91,0:23:04.42,Default,,0,0,0,,{\a3}两个姐姐都十分地温柔
+Dialogue: 0,0:23:04.64,0:23:10.56,Default,,0,0,0,,{\a5}私は二人をとても好き
+Dialogue: 0,0:23:04.64,0:23:10.56,Default,,0,0,0,,{\a3}我非常喜欢喜欢她们
+Dialogue: 0,0:23:10.56,0:23:17.25,Default,,0,0,0,,{\a5}二人といるだけで 嬉しいすぎるの
+Dialogue: 0,0:23:10.56,0:23:17.25,Default,,0,0,0,,{\a3}只要和她们在一起 我就很开心
+Dialogue: 0,0:23:17.25,0:23:23.01,Default,,0,0,0,,{\a5}あんなとこ こんなとこも どこも好きで
+Dialogue: 0,0:23:17.25,0:23:23.01,Default,,0,0,0,,{\a3}不管是她们的哪里 还是这里我都很喜欢
+Dialogue: 0,0:23:23.12,0:23:25.82,Default,,0,0,0,,{\a5}笑顔になるの
+Dialogue: 0,0:23:23.12,0:23:25.82,Default,,0,0,0,,{\a3}能开心地笑出来
+Dialogue: 0,0:23:26.46,0:23:32.49,Default,,0,0,0,,{\a5}お昼寝 目覚める お鍋の音
+Dialogue: 0,0:23:26.46,0:23:32.49,Default,,0,0,0,,{\a3}午睡醒来 听到火锅的声音
+Dialogue: 0,0:23:32.74,0:23:37.10,Default,,0,0,0,,{\a5}いつもと同じ毎日
+Dialogue: 0,0:23:32.74,0:23:37.10,Default,,0,0,0,,{\a3}与往常一样的每一天
+Dialogue: 0,0:23:37.19,0:23:42.18,Default,,0,0,0,,{\a5}今日も家はとても幸せ
+Dialogue: 0,0:23:37.19,0:23:42.18,Default,,0,0,0,,{\a3}今天我家也如此地幸福

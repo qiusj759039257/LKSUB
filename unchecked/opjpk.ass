@@ -1,0 +1,32 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Audio File: [Leopard-Raws] Shingeki no Kyojin - 03 RAW (MBS 1280x720 x264 AAC).mp4
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.64,0:00:03.28,Shingeki No Kyoujin JP,NTP,0000,0000,0000,,{\k7}S{\k6}i{\k13}e {\k6}s{\k6}i{\k6}n{\k11}d {\k7}d{\k6}a{\k13}s {\k4}E{\k4}s{\k4}s{\k4}e{\k8}n {\k4}u{\k4}n{\k7}d {\k9}w{\k8}i{\k16}r {\k4}s{\k4}i{\k4}n{\k7}d {\k5}d{\k4}i{\k8}e {\k13}J{\k13}ä{\k13}g{\k12}e{\k12}r{\k12}！
+Dialogue: 0,0:00:15.52,0:00:20.53,Shingeki No Kyoujin JP,NTP,0000,0000,0000,,{\k29}踏{\k36}ま{\k33}れ{\k30}た{\k66}花{\k52}の　{\k32}名{\k46}前{\k36}も{\k38}識{\k33}ら{\k35}ず{\k35}に
+Dialogue: 0,0:00:20.59,0:00:25.90,Shingeki No Kyoujin JP,NTP,0000,0000,0000,,{\k40}地{\k18}に{\k24}堕{\k37}ち{\k35}た{\k65}鳥{\k50}は　{\k52}風{\k32}を{\k32}待{\k32}ち{\k37}侘{\k33}び{\k44}る
+Dialogue: 0,0:00:25.94,0:00:31.17,Shingeki No Kyoujin JP,NTP,0000,0000,0000,,{\k50}祈{\k34}っ{\k36}た{\k29}と{\k38}こ{\k31}ろ{\k49}で　{\k51}何{\k32}も{\k35}変{\k35}わ{\k32}ら{\k32}な{\k39}い
+Dialogue: 0,0:00:31.20,0:00:36.46,Shingeki No Kyoujin JP,NTP,0000,0000,0000,,{\k58}今{\k24}を{\k41}変{\k37}え{\k27}る{\k36}の{\k49}は　{\k83}闘{\k33}う{\k65}覚{\k33}悟{\k40}だ
+Dialogue: 0,0:00:36.46,0:00:38.85,Shingeki No Kyoujin JP,NTP,0000,0000,0000,,{\k111}屍{\k19}踏{\k18}み{\k15}越{\k14}え{\k62}て
+Dialogue: 0,0:00:38.85,0:00:41.67,Shingeki No Kyoujin JP,NTP,0000,0000,0000,,{\k40}進{\k22}む{\k17}意{\k24}志{\k29}を{\k40}嗤{\k35}う{\k32}豚{\k43}よ
+Dialogue: 0,0:00:41.69,0:00:44.31,Shingeki No Kyoujin JP,NTP,0000,0000,0000,,{\k38}家{\k34}畜{\k14}の{\k31}安{\k34}寧　{\k20}虚{\k16}偽{\k17}の{\k32}繁{\k26}栄
+Dialogue: 0,0:00:44.34,0:00:47.12,Shingeki No Kyoujin JP,NTP,0000,0000,0000,,{\k29}死{\k21}せ{\k20}る{\k17}餓{\k35}狼{\k14}の{\k18}自{\k68}由{\k56}を！
+Dialogue: 0,0:00:47.12,0:00:52.45,Shingeki No Kyoujin JP,NTP,0000,0000,0000,,{\k36}囚{\k26}わ{\k30}れ{\k34}た{\k49}屈{\k52}辱{\k48}は　{\k32}反{\k52}撃{\k27}の{\k65}嚆{\k39}矢{\k43}だ
+Dialogue: 0,0:00:52.45,0:00:57.76,Shingeki No Kyoujin JP,NTP,0000,0000,0000,,{\k42}城{\k50}壁{\k14}の{\k52}そ{\k13}の{\k25}彼{\k71}方　{\k23}獲{\k39}物{\k24}を{\k37}屠{\k29}る{\k53}イェー{\k59}ガー
+Dialogue: 0,0:00:57.76,0:01:03.07,Shingeki No Kyoujin JP,NTP,0000,0000,0000,,{\k91}迸{\k13}る{\k70}衝{\k49}動{\k49}に　{\k15}そ{\k20}の{\k18}身{\k27}を{\k36}灼{\k52}き{\k18}な{\k31}が{\k42}ら
+Dialogue: 0,0:01:03.07,0:01:09.68,Shingeki No Kyoujin JP,NTP,0000,0000,0000,,{\k41}黄{\k55}昏{\k24}に{\k38}緋{\k16}を{\k50}穿{\k34}つ　{\k11}紅{\k57}蓮{\k30}の{\k35}弓{\k270}矢
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,
