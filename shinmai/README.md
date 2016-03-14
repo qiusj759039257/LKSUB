@@ -1,6 +1,6 @@
 # 新妹魔王の契約者
 
-![poster](poster)
+![poster](poster.jpg)
 
 ## HP
 
