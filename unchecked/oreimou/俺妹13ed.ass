@@ -1,0 +1,61 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Scroll Position: 0
+Active Line: 1
+Audio URI: imo13_r.mp4
+Video Zoom Percent: 0.5
+Video File: imo13_r.mp4
+Video Aspect Ratio: c1.77778
+Video Position: 32002
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:22:14.72,0:22:17.84,Default,,0,0,0,,{\a5}大好きって叫びたい
+Dialogue: 0,0:22:14.72,0:22:17.84,Default,,0,0,0,,{\a3}想大声说出我喜欢你
+Dialogue: 0,0:22:17.90,0:22:19.91,Default,,0,0,0,,{\a5}熱くなる頬を
+Dialogue: 0,0:22:17.90,0:22:19.91,Default,,0,0,0,,{\a3}用夕阳来掩盖
+Dialogue: 0,0:22:19.91,0:22:22.40,Default,,0,0,0,,{\a5}夕陽でごまかして
+Dialogue: 0,0:22:19.91,0:22:22.40,Default,,0,0,0,,{\a3}变红的脸颊
+Dialogue: 0,0:22:22.47,0:22:24.13,Default,,0,0,0,,{\a5}もっと　ずっと
+Dialogue: 0,0:22:22.47,0:22:24.13,Default,,0,0,0,,{\a3}想更多 一直地
+Dialogue: 0,0:22:24.17,0:22:25.62,Default,,0,0,0,,{\a5}見つめたい
+Dialogue: 0,0:22:24.17,0:22:25.62,Default,,0,0,0,,{\a3}注视着你
+Dialogue: 0,0:22:25.62,0:22:27.89,Default,,0,0,0,,{\a5}大切なんだから
+Dialogue: 0,0:22:25.62,0:22:27.89,Default,,0,0,0,,{\a3}因为你很重要
+Dialogue: 0,0:22:27.97,0:22:30.80,Default,,0,0,0,,{\a5}気づいてよ
+Dialogue: 0,0:22:27.97,0:22:30.80,Default,,0,0,0,,{\a3}快察觉到吧
+Dialogue: 0,0:22:43.37,0:22:46.17,Default,,0,0,0,,{\a5}素直になれないから
+Dialogue: 0,0:22:43.37,0:22:46.17,Default,,0,0,0,,{\a3}无法变得直率的话
+Dialogue: 0,0:22:47.34,0:22:50.10,Default,,0,0,0,,{\a5}可愛いわけがないよね
+Dialogue: 0,0:22:47.34,0:22:50.10,Default,,0,0,0,,{\a3}是不可能变可爱的吧
+Dialogue: 0,0:22:50.29,0:22:54.48,Default,,0,0,0,,{\a5}あなたの目に映る あたしは
+Dialogue: 0,0:22:50.29,0:22:54.48,Default,,0,0,0,,{\a3}你眼中所映出的我
+Dialogue: 0,0:22:55.08,0:23:00.53,Default,,0,0,0,,{\a5}いつもと同じ道 並んで歩く
+Dialogue: 0,0:22:55.08,0:23:00.53,Default,,0,0,0,,{\a3}总是在同一条路上并排走
+Dialogue: 0,0:23:00.53,0:23:04.82,Default,,0,0,0,,{\a5}二人の距離 変えてしまいたい？
+Dialogue: 0,0:23:00.53,0:23:04.82,Default,,0,0,0,,{\a3}想要改变两人的距离？
+Dialogue: 0,0:23:05.94,0:23:07.44,Default,,0,0,0,,{\a5}…なんてね。
+Dialogue: 0,0:23:05.94,0:23:07.44,Default,,0,0,0,,{\a3}……什么的。
+Dialogue: 0,0:23:09.86,0:23:17.45,Default,,0,0,0,,{\a5}他の誰かに 優しい顔見せないでよ
+Dialogue: 0,0:23:09.86,0:23:17.45,Default,,0,0,0,,{\a3}可别让其他人看到你那温柔的一面哦
+Dialogue: 0,0:23:17.45,0:23:24.64,Default,,0,0,0,,{\a5}あたしのことだけ 心配しててよね
+Dialogue: 0,0:23:17.45,0:23:24.64,Default,,0,0,0,,{\a3}只准你担心我一个人
+Dialogue: 0,0:23:26.22,0:23:29.57,Default,,0,0,0,,{\a5}ありがど、って呟いて
+Dialogue: 0,0:23:26.22,0:23:29.57,Default,,0,0,0,,{\a3}小声说着 谢谢
+Dialogue: 0,0:23:29.57,0:23:31.38,Default,,0,0,0,,{\a5}目をそらしたり
+Dialogue: 0,0:23:29.57,0:23:31.38,Default,,0,0,0,,{\a3}时而转移视线
+Dialogue: 0,0:23:31.38,0:23:34.14,Default,,0,0,0,,{\a5}盗み見てみたり
+Dialogue: 0,0:23:31.38,0:23:34.14,Default,,0,0,0,,{\a3}时而偷偷地看看你
+Dialogue: 0,0:23:34.14,0:23:37.20,Default,,0,0,0,,{\a5}まっすぐ見つめ合って
+Dialogue: 0,0:23:34.14,0:23:37.20,Default,,0,0,0,,{\a3}然后直接互相凝视着
+Dialogue: 0,0:23:37.20,0:23:42.00,Default,,0,0,0,,{\a5}大切だから ずっとこのままで
+Dialogue: 0,0:23:37.20,0:23:42.00,Default,,0,0,0,,{\a3}因为很重要 所以就一直保持这样吧

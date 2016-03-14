@@ -1,0 +1,51 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Video Zoom Percent: 1
+Audio URI: Oreimo2_12_niku.mp4
+Scroll Position: 0
+Active Line: 3
+Video File: Oreimo2_12_niku.mp4
+Video Aspect Ratio: c1.77778
+Video Position: 32632
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:22:33.72,0:22:40.31,Default,,0,0,0,,{\a5}すっと 胸に手を当てて
+Dialogue: 0,0:22:33.72,0:22:40.31,Default,,0,0,0,,{\a3}把手轻轻地放在胸前
+Dialogue: 0,0:22:41.02,0:22:47.20,Default,,0,0,0,,{\a5}手繰るの君と過ごした
+Dialogue: 0,0:22:41.02,0:22:47.20,Default,,0,0,0,,{\a3}回忆起和你一起度过的
+Dialogue: 0,0:22:47.20,0:22:53.57,Default,,0,0,0,,{\a5}あの一月を背伸びした杜若に
+Dialogue: 0,0:22:47.20,0:22:53.57,Default,,0,0,0,,{\a3}那一个月中成长的杜若
+Dialogue: 0,0:22:53.83,0:22:57.41,Default,,0,0,0,,{\a5}ピンク色の髪飾り
+Dialogue: 0,0:22:53.83,0:22:57.41,Default,,0,0,0,,{\a3}还有那粉色的发夹
+Dialogue: 0,0:22:57.67,0:23:01.06,Default,,0,0,0,,{\a5}答えなど くれなくていい
+Dialogue: 0,0:22:57.67,0:23:01.06,Default,,0,0,0,,{\a3}回复什么的 不回也行
+Dialogue: 0,0:23:01.06,0:23:05.37,Default,,0,0,0,,{\a5}ダメなことは分かっているから
+Dialogue: 0,0:23:01.06,0:23:05.37,Default,,0,0,0,,{\a3}因为我知道肯定是不行的
+Dialogue: 0,0:23:03.75,0:23:05.37,Default,,0,0,0,,{\a5}大嘘つきのお兄さんへ
+Dialogue: 0,0:23:03.75,0:23:05.37,Default,,0,0,0,,{\a3}致大骗子的哥哥
+Dialogue: 0,0:23:05.52,0:23:09.76,Default,,0,0,0,,{\a5}君がついた嘘は綺麗で
+Dialogue: 0,0:23:05.52,0:23:09.76,Default,,0,0,0,,{\a3}你所说的慌总是那么美丽
+Dialogue: 0,0:23:09.76,0:23:13.44,Default,,0,0,0,,{\a5}それにずっと甘えてた
+Dialogue: 0,0:23:09.76,0:23:13.44,Default,,0,0,0,,{\a3}我一直靠着它撒娇
+Dialogue: 0,0:23:13.58,0:23:21.51,Default,,0,0,0,,{\a5}隠し通せない想いが 涙にかわるの
+Dialogue: 0,0:23:13.58,0:23:21.51,Default,,0,0,0,,{\a3}无法隐藏的想法 变成了泪水　
+Dialogue: 0,0:23:21.66,0:23:25.80,Default,,0,0,0,,{\a5}僕がついた嘘はずるくて
+Dialogue: 0,0:23:21.66,0:23:25.80,Default,,0,0,0,,{\a3}我所说的慌总是那么狡猾
+Dialogue: 0,0:23:25.80,0:23:29.51,Default,,0,0,0,,{\a5}君をきっと傷つけた
+Dialogue: 0,0:23:25.80,0:23:29.51,Default,,0,0,0,,{\a3}一定伤害了你
+Dialogue: 0,0:23:29.68,0:23:33.84,Default,,0,0,0,,{\a5}それでも優しい笑顔で　
+Dialogue: 0,0:23:29.68,0:23:33.84,Default,,0,0,0,,{\a3}就算如此你还是一脸温柔的笑容
+Dialogue: 0,0:23:33.84,0:23:37.75,Default,,0,0,0,,{\a5}なぜ ただ 包むの
+Dialogue: 0,0:23:33.84,0:23:37.75,Default,,0,0,0,,{\a3}为什么 只是 包容着我
+Dialogue: 0,0:23:37.82,0:23:42.36,Default,,0,0,0,,{\a5}涙を拭いて 伝える
+Dialogue: 0,0:23:37.82,0:23:42.36,Default,,0,0,0,,{\a3}我擦干泪水 传达给你

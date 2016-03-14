@@ -1,0 +1,53 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+Audio URI: 05\Oreimo2_05-niku.mp4
+Scroll Position: 6
+Active Line: 31
+Video Zoom Percent: 1
+Video File: 05\Oreimo2_05-niku.mp4
+Video Aspect Ratio: c1.77778
+Video Position: 2791
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:35.57,0:00:46.84,Default,,0,0,0,,{\a5}君とまた物語が始まるの
+Dialogue: 0,0:00:35.57,0:00:46.84,Default,,0,0,0,,{\a3}与你再次书写我们的故事
+Dialogue: 0,0:00:50.52,0:00:55.94,Default,,0,0,0,,{\a5}記憶の遠く 走ってた
+Dialogue: 0,0:00:50.52,0:00:55.94,Default,,0,0,0,,{\a3}追溯记忆的深处
+Dialogue: 0,0:00:56.14,0:01:04.46,Default,,0,0,0,,{\a5}きらめく影法師を忘れられなくてずっと
+Dialogue: 0,0:00:56.14,0:01:04.46,Default,,0,0,0,,{\a3}一直无法忘记你闪耀的身影
+Dialogue: 0,0:01:04.78,0:01:09.92,Default,,0,0,0,,{\a5}君の目線の先に 気付かずに
+Dialogue: 0,0:01:04.78,0:01:09.92,Default,,0,0,0,,{\a3}但我却没有察觉你所注视的未来
+Dialogue: 0,0:01:09.92,0:01:14.13,Default,,0,0,0,,{\a5}勝手な理想だけ膨らんじゃって
+Dialogue: 0,0:01:09.92,0:01:14.13,Default,,0,0,0,,{\a3}而只是天天做着白日梦
+Dialogue: 0,0:01:14.13,0:01:17.25,Default,,0,0,0,,{\a5}前見えないの
+Dialogue: 0,0:01:14.13,0:01:17.25,Default,,0,0,0,,{\a3}没有看清眼前
+Dialogue: 0,0:01:17.25,0:01:24.80,Default,,0,0,0,,{\a5}想いは やっぱり 透明だけど重くて
+Dialogue: 0,0:01:17.25,0:01:24.80,Default,,0,0,0,,{\a3}虽说想法还是单纯的 但是也是沉重的
+Dialogue: 0,0:01:24.80,0:01:31.54,Default,,0,0,0,,{\a5}少しずつ 溶かしてくよ
+Dialogue: 0,0:01:24.80,0:01:31.54,Default,,0,0,0,,{\a3}让我们慢慢将它溶解吧
+Dialogue: 0,0:01:31.70,0:01:35.01,Default,,0,0,0,,{\a5}君とまた手を繋ごう
+Dialogue: 0,0:01:31.70,0:01:35.01,Default,,0,0,0,,{\a3}让我们再次牵手
+Dialogue: 0,0:01:35.01,0:01:38.60,Default,,0,0,0,,{\a5}私とまた夢を見よう
+Dialogue: 0,0:01:35.01,0:01:38.60,Default,,0,0,0,,{\a3}再和我一起做梦吧
+Dialogue: 0,0:01:38.60,0:01:42.57,Default,,0,0,0,,{\a5}傷だらけでも今を抱いて
+Dialogue: 0,0:01:38.60,0:01:42.57,Default,,0,0,0,,{\a3}即便伤痕累累也要拥抱现在
+Dialogue: 0,0:01:42.57,0:01:45.69,Default,,0,0,0,,{\a5}はじまりにしよう
+Dialogue: 0,0:01:42.57,0:01:45.69,Default,,0,0,0,,{\a3}让这成为我们的起点
+Dialogue: 0,0:01:45.92,0:01:49.26,Default,,0,0,0,,{\a5}君とまた声交わそう
+Dialogue: 0,0:01:45.92,0:01:49.26,Default,,0,0,0,,{\a3}再次与你侃侃而谈
+Dialogue: 0,0:01:49.26,0:01:52.69,Default,,0,0,0,,{\a5}私とまた笑い合おう
+Dialogue: 0,0:01:49.26,0:01:52.69,Default,,0,0,0,,{\a3}再次和我一起欢笑吧
+Dialogue: 0,0:01:52.79,0:01:56.38,Default,,0,0,0,,{\a5}蕾のままだった明日を
+Dialogue: 0,0:01:52.79,0:01:56.38,Default,,0,0,0,,{\a3}让我的花蕾绽放在明天
+Dialogue: 0,0:01:56.38,0:02:02.73,Default,,0,0,0,,{\a5}咲かせるの 君の近くで
+Dialogue: 0,0:01:56.38,0:02:02.73,Default,,0,0,0,,{\a3}绽放在你的身边
