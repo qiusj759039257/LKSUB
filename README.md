@@ -29,6 +29,7 @@ LKSUB
     - [ハイスクールD×D NEW / 恶魔高校D×D New](hsdxd_new)
     - [言の葉の庭 / 言叶之庭](kotonoha)
     - [まおゆう魔王勇者 / 魔王勇者](maoyuu)
+    - [閃乱カグラ / 闪乱神乐](senran)
 - 2012
     - [はぐれ勇者の鬼畜美学 / 无赖勇者的鬼畜美学](hagure)
     - [Another](another)
