@@ -34,5 +34,6 @@ LKSUB
     - [Another](another)
     - [魔法少女リリカルなのは The MOVIE 2nd A's / 魔法少女奈叶 The MOVIE 2nd A's](nanoha_movie_2nd_as)
     - [織田信奈の野望 / 织田信奈的野望](oda_nobuna)
+    - [お兄ちゃんだけど愛さえあれば関係ないよねっ / 就算是哥哥，有爱就没问题了，对吧](oniichan_ai)
 - 2011
     - [とある飛空士への追憶 / 对某飞行员的追忆](hikuushi)
