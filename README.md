@@ -8,7 +8,7 @@ LKSUB
     - [落第騎士の英雄譚 / 落第骑士英雄谭](rakudai)
     - [Charlotte](charlotte)
     - [艦隊これくしょん -艦これ- / 舰队Collection](kancolle)
-    - [High Shool DxD BorN](HSDxD_BorN)
+    - [ハイスクールD×D BorN / High Shool DxD BorN](hsdxd_born)
     - [冴えない彼女の育てかた / 路人女主的养成方法](saenai)
     - [下ネタという概念が存在しない退屈な世界 / 下流梗不存在的灰暗世界](shimoseka)
     - [俺がお嬢様学校に「庶民サンプル」として拉致られた件 / 我被绑架到贵族女校当“庶民样本”](shomin)
@@ -26,6 +26,7 @@ LKSUB
     - [マンガ家さんとアシスタントさんと / 漫画家与助手](mangakasan)
 - 2013
     - [やはり俺の青春ラブコメはまちがっている。 / 我的青春恋爱喜剧果然有问题](oregairu)
+    - [ハイスクールD×D NEW / High School DxD New](hsdxd_new)
 - 2012
     - [はぐれ勇者の鬼畜美学 / 无赖勇者的鬼畜美学](hagure)
     - [Another](another)
