@@ -27,6 +27,7 @@ LKSUB
 - 2013
     - [やはり俺の青春ラブコメはまちがっている。 / 我的青春恋爱喜剧果然有问题](oregairu)
     - [ハイスクールD×D NEW / 恶魔高校D×D New](hsdxd_new)
+    - [言の葉の庭 / 言叶之庭](kotonoha)
 - 2012
     - [はぐれ勇者の鬼畜美学 / 无赖勇者的鬼畜美学](hagure)
     - [Another](another)
