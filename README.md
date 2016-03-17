@@ -33,5 +33,6 @@ LKSUB
     - [はぐれ勇者の鬼畜美学 / 无赖勇者的鬼畜美学](hagure)
     - [Another](another)
     - [魔法少女リリカルなのは The MOVIE 2nd A's / 魔法少女奈叶 The MOVIE 2nd A's](nanoha_movie_2nd_as)
+    - [織田信奈の野望 / 织田信奈的野望](oda_nobuna)
 - 2011
     - [とある飛空士への追憶 / 对某飞行员的追忆](hikuushi)
