@@ -15,8 +15,8 @@ Video File: C:/Users/user/Downloads/[LKSUB][IS_Infinite_Stratos_2][01-12][GB][72
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 356
-Active Line: 346
+Scroll Position: 8
+Active Line: 13
 Video Position: 32176
 
 [V4+ Styles]
@@ -41,7 +41,7 @@ Dialogue: 0,0:00:59.60,0:01:00.34,Default,,0,0,0,,千冬姐…
 Dialogue: 0,0:01:20.22,0:01:21.46,Default,,0,0,0,,杀了你
 Dialogue: 0,0:01:32.48,0:01:33.58,Default,,0,0,0,,杀了你
 Dialogue: 0,0:01:35.12,0:01:36.58,Default,,0,0,0,,织斑一夏
-Dialogue: 0,0:03:23.72,0:03:28.64,Default,,0,0,0,,{\pos(129.333,106)\fad(0,400)}一夏的回忆
+Dialogue: 0,0:03:23.72,0:03:28.64,Default,,0,0,0,,{@\pos(129.333,106)\fad(0,400)}一夏的回忆
 Dialogue: 0,0:03:38.60,0:03:40.08,Default,,0,0,0,,就已经天亮了吗
 Dialogue: 0,0:03:41.00,0:03:42.74,Default,,0,0,0,,劳拉 你又…
 Dialogue: 0,0:03:44.40,0:03:45.86,Default,,0,0,0,,哼哼 今天…
@@ -55,7 +55,7 @@ Dialogue: 0,0:04:04.42,0:04:05.12,Default,,0,0,0,,这是什么
 Dialogue: 0,0:04:05.84,0:04:06.60,Default,,0,0,0,,我看看写了什么
 Dialogue: 0,0:04:06.86,0:04:09.22,Default,,0,0,0,,「在夏日的结尾庙会约会」
 Dialogue: 0,0:04:06.55,0:04:09.56,Default,,0,0,0,,{@\fs15\be1\frz8.378\3c&HA87EF1&\pos(164.053,197.886)}马上让两人擦出\N爱的火花
-Dialogue: 0,0:04:06.55,0:04:09.56,Default,,0,0,0,,{\fn方正大标宋_GBK\blur0.5\bord0\fs15\c&H2C2E34&\pos(452.906,129.64)}New rainbow island
+Dialogue: 0,0:04:06.55,0:04:09.56,Default,,0,0,0,,{@\fn方正大标宋_GBK\blur0.5\bord0\fs15\c&H2C2E34&\pos(452.906,129.64)}New rainbow island
 Dialogue: 0,0:04:10.94,0:04:14.24,Default,,0,0,0,,这个不是今年刚建好的娱乐游泳池举办的活动吗
 Dialogue: 0,0:04:15.16,0:04:17.10,Default,,0,0,0,,一直想去那玩玩来着
 Dialogue: 0,0:04:17.30,0:04:18.64,Default,,0,0,0,,是吗 想去吗
