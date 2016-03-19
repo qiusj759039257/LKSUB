@@ -1,11 +1,10 @@
-# ハイスクールD×D BorN
+# ハイスクールD×D NEW
 
 ![poster](poster.jpg)
 
 ## STORY
 
 大佐诚品：乳龙帝和欧派的故事
- 
 
 ## STAFF
 
