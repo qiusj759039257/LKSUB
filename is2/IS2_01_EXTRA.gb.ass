@@ -15,9 +15,8 @@ Video File: C:/Users/user/Downloads/[LKSUB][IS_Infinite_Stratos_2][01-12][GB][72
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.390278
-Scroll Position: 427
-Active Line: 297
-Video Position: 32264
+Active Line: 6
+Video Position: 56243
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,8 +28,8 @@ Style: Staff,方正黑体_GBK,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,======================================== STAFF ========================================
-Dialogue: 0,0:03:09.96,0:03:19.92,Staff,,0,0,0,,{\an8}本字幕由轻之国度制作 仅供试看之用\N如喜欢本作品 请支持Z版
-Dialogue: 0,0:03:09.96,0:03:19.92,Staff,,0,0,0,,翻译&校对：雨瞳 小基友、EK_ramutari、库洛西、Ｗilliam\N片源: 10th Mystery   时轴：kaaala、QiuSJ  后期: 伟哥
+Dialogue: 0,0:39:04.82,0:39:05.82,Staff,,0,0,0,,{\an8}本字幕由轻之国度制作 仅供试看之用\N如喜欢本作品 请支持Z版
+Dialogue: 0,0:39:04.82,0:39:05.82,Staff,,0,0,0,,翻译&校对：雨瞳 小基友、EK_ramutari、库洛西、William\N片源: 10th Mystery   时轴：kaaala、QiuSJ  后期: 伟哥
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,======================================== TEXT ========================================
 Dialogue: 0,0:00:31.93,0:00:33.72,Default,,0,0,0,,我也从这边上了
 Dialogue: 0,0:00:34.77,0:00:36.31,Default,,0,0,0,,再坚持一会

@@ -29,7 +29,7 @@ Style: Staff,方正黑体_GBK,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,======================================== STAFF ========================================
 Dialogue: 0,0:03:06.95,0:03:16.96,Staff,,0,0,0,,{\an8}本字幕由轻之国度制作 仅供试看之用\N如喜欢本作品 请支持Z版
-Dialogue: 0,0:03:06.95,0:03:16.96,Staff,,0,0,0,,翻译&校对：小基友、EK_ramutari、库洛西、Ｗilliam\N片源: 10th Mystery   时轴：kaaala  后期: 伟哥
+Dialogue: 0,0:03:06.95,0:03:16.96,Staff,,0,0,0,,翻译&校对：小基友、EK_ramutari、库洛西、William\N片源: 10th Mystery   时轴：kaaala  后期: 伟哥
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,======================================== TEXT ========================================
 Dialogue: 0,0:00:06.06,0:00:07.44,Default,,0,0,0,,一夏
 Dialogue: 0,0:00:21.60,0:00:24.38,Default,,0,0,0,,咦 怎么了 一夏

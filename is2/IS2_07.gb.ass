@@ -30,7 +30,7 @@ Style: Staff,方正黑体_GBK,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,======================================== STAFF ========================================
 Dialogue: 0,0:02:07.98,0:02:17.95,Staff,,0,0,0,,{\an8}本字幕由轻之国度制作 仅供试看之用\N如喜欢本作品 请支持Z版
-Dialogue: 0,0:02:07.98,0:02:17.95,Staff,,0,0,0,,翻译：EK_ramutari、库洛西、Ｗilliam  校对：小基友\N时轴：kaaala  后期: 伟哥  片源: 10th Mystery 
+Dialogue: 0,0:02:07.98,0:02:17.95,Staff,,0,0,0,,翻译：EK_ramutari、库洛西、William  校对：小基友\N时轴：kaaala  后期: 伟哥  片源: 10th Mystery 
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,======================================== TEXT ========================================
 Dialogue: 0,0:00:11.48,0:00:13.35,Default,,0,0,0,,各个驱动部位的反应不良
 Dialogue: 0,0:00:14.15,0:00:14.67,Default,,0,0,0,,为什么
