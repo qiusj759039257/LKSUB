@@ -32,6 +32,7 @@ LKSUB
     - [言の葉の庭 / 言叶之庭](kotonoha)
     - [まおゆう魔王勇者 / 魔王勇者](maoyuu)
     - [閃乱カグラ / 闪乱神乐](senran)
+    - [IS 〈インフィニット·ストラトス〉 2 / IS 〈Infinite Stratos〉 2](is2)
 - 2012
     - [はぐれ勇者の鬼畜美学 / 无赖勇者的鬼畜美学](hagure)
     - [Another](another)
