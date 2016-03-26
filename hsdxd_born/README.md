@@ -1,4 +1,4 @@
-# High School DxD BorN
+# ハイスクールD×D BorN
 
 ![poster](poster.jpg)
 
