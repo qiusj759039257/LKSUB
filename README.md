@@ -6,6 +6,7 @@ LKSUB
 
 - 2016
     - [おしえて！ ギャル子ちゃん / 百无禁忌！女高中生私房话](jk)
+    - [紅殻のパンドラ -GHOST URN- / 红壳的潘朵拉 -GHOST URN-](pandora)
 - 2015
     - [落第騎士の英雄譚 / 落第骑士英雄谭](rakudai)
     - [Charlotte](charlotte)
