@@ -10,7 +10,7 @@ LKSUB
     - [僕だけがいない街 / 只有我不存在的城市](bokumachi)
 - 2015
     - [落第騎士の英雄譚 / 落第骑士英雄谭](rakudai)
-    - [Charlotte](charlotte)
+    - [Charlotte / 夏洛特](charlotte)
     - [艦隊これくしょん -艦これ- / 舰队Collection](kancolle)
     - [ハイスクールD×D BorN / 恶魔高校D×D BorN](hsdxd_born)
     - [冴えない彼女の育てかた / 路人女主的养成方法](saenai)
@@ -18,7 +18,7 @@ LKSUB
     - [俺がお嬢様学校に「庶民サンプル」として拉致られた件 / 我被绑架到贵族女校当“庶民样本”](shomin)
     - [新妹魔王の契約者 / 新妹魔王的契约者](shinmai)
     - [やはり俺の青春ラブコメはまちがっている。続 / 我的青春恋爱喜剧果然有问题续](oregairu2)
-    - [Lance N' Masques / 枪与假面](lance)
+    - [ランス·アンド·マスクス / Lance N' Masques / 枪与假面](lance)
 - 2014
     - [六畳間の侵略者!? / 三坪房间的侵略者！？](rokujouma)
     - [デンキ街の本屋さん / 电器街的漫画店](denkigai)
