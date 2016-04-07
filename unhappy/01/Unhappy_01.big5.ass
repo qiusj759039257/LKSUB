@@ -16,8 +16,9 @@ Video File: Unhappy_01.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Active Line: 6
-Video Position: 32216
+Scroll Position: 360
+Active Line: 368
+Video Position: 32497
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -399,7 +400,7 @@ Dialogue: 0,0:22:19.72,0:22:21.79,Default,,0,0,0,,我抱著它睡了一晚上
 Dialogue: 0,0:22:28.34,0:22:29.17,Default,,0,0,0,,騙人的吧
 Dialogue: 0,0:22:30.86,0:22:31.84,Default,,0,0,0,,好可愛
 Dialogue: 0,0:22:34.00,0:22:35.48,Default,,0,0,0,,{\an8\fs30}你喜歡額頭嗎
-Dialogue: 0,0:22:34.39,0:22:38.51,Default,,0,0,0,,果然最遺憾的說不定是這孩子了
+Dialogue: 1,0:22:34.39,0:22:38.51,Default,,0,0,0,,果然最遺憾的說不定是這孩子了
 Dialogue: 0,0:23:44.02,0:23:49.03,Title2,,0,0,0,,{@\an8\fn方正综艺_GBK\c&HD27D59&\pos(640,470)}高科技的身體檢查
 Comment: 0,0:00:00.00,0:00:00.00,EDJP,,0,0,0,,======================================== ED ========================================
 Comment: 0,0:00:00.00,0:00:00.00,EDJP,,0,0,0,template line all,!retime("line",-115,115)!{\an5\pos($center,$middle)\fad(115,115)}

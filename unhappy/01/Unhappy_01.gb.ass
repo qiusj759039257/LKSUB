@@ -16,8 +16,8 @@ Video File: C:/Users/user/Downloads/【PV】TVアニメ「あんハピ♪」 し
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 231
-Active Line: 149
+Scroll Position: 362
+Active Line: 368
 Video Position: 34143
 
 [V4+ Styles]
@@ -400,7 +400,7 @@ Dialogue: 0,0:22:19.72,0:22:21.79,Default,,0,0,0,,我抱着它睡了一晚上
 Dialogue: 0,0:22:28.34,0:22:29.17,Default,,0,0,0,,骗人的吧
 Dialogue: 0,0:22:30.86,0:22:31.84,Default,,0,0,0,,好可爱
 Dialogue: 0,0:22:34.00,0:22:35.48,Default,,0,0,0,,{\an8\fs30}你喜欢额头吗
-Dialogue: 0,0:22:34.39,0:22:38.51,Default,,0,0,0,,果然最遗憾的说不定是这孩子了
+Dialogue: 1,0:22:34.39,0:22:38.51,Default,,0,0,0,,果然最遗憾的说不定是这孩子了
 Dialogue: 0,0:23:44.02,0:23:49.03,Title2,,0,0,0,,{@\an8\fn方正综艺_GBK\c&HD27D59&\pos(640,470)}高科技的身体检查
 Comment: 0,0:00:00.00,0:00:00.00,EDJP,,0,0,0,,======================================== ED ========================================
 Comment: 0,0:00:00.00,0:00:00.00,EDJP,,0,0,0,template line all,!retime("line",-115,115)!{\an5\pos($center,$middle)\fad(115,115)}
