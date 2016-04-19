@@ -405,33 +405,33 @@ Dialogue: 0,0:23:44.02,0:23:49.03,Title2,,0,0,0,,{@\an8\fn方正综艺_GBK\c&HD2
 Comment: 0,0:00:00.00,0:00:00.00,EDJP,,0,0,0,,======================================== ED ========================================
 Comment: 0,0:00:00.00,0:00:00.00,EDJP,,0,0,0,template line all,!retime("line",-115,115)!{\an5\pos($center,$middle)\fad(115,115)}
 Comment: 0,0:00:00.00,0:00:00.00,EDJP,,0,0,0,,130bpm
-Dialogue: 0,0:22:01.52,0:22:04.76,EDJP,,0,0,0,karaoke,{\\blur2\fad(115,115)}だから何度だって  ねぇ
-Dialogue: 0,0:22:05.19,0:22:08.68,EDJP,,0,0,0,karaoke,{\\blur2\fad(115,115)}試してみようって決めたよ
-Dialogue: 0,0:22:08.89,0:22:16.05,EDJP,,0,0,0,karaoke,{\\blur2\fad(115,115)}明日起きたらもう一度  他の方法考えよう
-Dialogue: 0,0:22:19.23,0:22:21.14,EDJP,,0,0,0,karaoke,{\\blur2\fad(115,115)}Good  Night  My  Friends
-Dialogue: 0,0:22:21.36,0:22:23.65,EDJP,,0,0,0,karaoke,{\\blur2\fad(115,115)}目を閉じて  I  Miss  You
-Dialogue: 0,0:22:23.65,0:22:30.85,EDJP,,0,0,0,karaoke,{\\blur2\fad(115,115)}祈りの言葉と願いの言葉の違いは
-Dialogue: 0,0:22:31.04,0:22:34.53,EDJP,,0,0,0,karaoke,{\\blur2\fad(115,115)}ころど星酔ってことかも
-Dialogue: 0,0:22:34.75,0:22:38.39,EDJP,,0,0,0,karaoke,{\\blur2\fad(115,115)}できるはず  明日から
+Dialogue: 0,0:22:01.52,0:22:04.76,EDJP,,0,0,0,karaoke,{\blur2\fad(115,115)}だから何度だって  ねぇ
+Dialogue: 0,0:22:05.19,0:22:08.68,EDJP,,0,0,0,karaoke,{\blur2\fad(115,115)}試してみようって決めたよ
+Dialogue: 0,0:22:08.89,0:22:16.05,EDJP,,0,0,0,karaoke,{\blur2\fad(115,115)}明日起きたらもう一度  他の方法考えよう
+Dialogue: 0,0:22:19.23,0:22:21.14,EDJP,,0,0,0,karaoke,{\blur2\fad(115,115)}Good  Night  My  Friends
+Dialogue: 0,0:22:21.36,0:22:23.65,EDJP,,0,0,0,karaoke,{\blur2\fad(115,115)}目を閉じて  I  Miss  You
+Dialogue: 0,0:22:23.65,0:22:30.85,EDJP,,0,0,0,karaoke,{\blur2\fad(115,115)}祈りの言葉と願いの言葉の違いは
+Dialogue: 0,0:22:31.04,0:22:34.53,EDJP,,0,0,0,karaoke,{\blur2\fad(115,115)}子供仕様ってことかも
+Dialogue: 0,0:22:34.75,0:22:38.39,EDJP,,0,0,0,karaoke,{\blur2\fad(115,115)}できるはず  明日から
 Dialogue: 0,0:22:39.10,0:22:42.38,EDJP,,0,0,0,karaoke,{\blur2\fad(115,115)}ゆっくりゆっくり休んでね
 Dialogue: 0,0:22:42.82,0:22:46.34,EDJP,,0,0,0,karaoke,{\blur2\fad(115,115)}焦らないほうが頑張れる
 Dialogue: 0,0:22:47.20,0:22:50.06,EDJP,,0,0,0,karaoke,{\blur2\fad(115,115)}見たいたいたい夢がある
 Dialogue: 0,0:22:50.20,0:22:53.69,EDJP,,0,0,0,karaoke,{\blur2\fad(115,115)}どんな夢かな？
-Dialogue: 0,0:22:53.69,0:22:55.03,EDJP,,0,0,0,karaoke,{\blur2\fad(115,115)}言わんないないよ♪
+Dialogue: 0,0:22:53.69,0:22:55.03,EDJP,,0,0,0,karaoke,{\blur2\fad(115,115)}言わんないなよ♪
 Dialogue: 0,0:22:55.60,0:23:01.33,EDJP,,0,0,0,karaoke,{\blur2\fad(115,115)}楽しかった時間だけ覚えておけばね
 Dialogue: 0,0:23:01.60,0:23:07.21,EDJP,,0,0,0,karaoke,{\blur2\fad(115,115)}まだまだ面白くなるよ  毎日が
 Dialogue: 0,0:23:07.59,0:23:11.35,EDJP,,0,0,0,karaoke,{\blur2\fad(115,115)}一緒なら  まるでカレイドスコープ
 Dialogue: 0,0:23:11.60,0:23:17.17,EDJP,,0,0,0,karaoke,{\blur2\fad(115,115)}回しちゃって  世界は綺麗なんだってばそうでしょう？
 Dialogue: 0,0:23:17.59,0:23:21.34,EDJP,,0,0,0,karaoke,{\blur2\fad(115,115)}思い出も未来も混ぜて
 Dialogue: 0,0:23:21.60,0:23:29.26,EDJP,,0,0,0,karaoke,{\blur2\fad(115,115)}「私たちきっとなんとかなるよね」って思ったの
-Dialogue: 0,0:22:01.52,0:22:04.76,EDCN,,0,0,0,karaoke,{\\blur2\fad(115,115)}所以說無論多少次
-Dialogue: 0,0:22:05.19,0:22:08.68,EDCN,,0,0,0,karaoke,{\\blur2\fad(115,115)}我都會不斷嘗試
-Dialogue: 0,0:22:08.89,0:22:16.05,EDCN,,0,0,0,karaoke,{\\blur2\fad(115,115)}明天起床後再別尋他途
-Dialogue: 0,0:22:19.23,0:22:21.14,EDCN,,0,0,0,karaoke,{\\blur2\fad(115,115)}Good  Night  My  Friends
-Dialogue: 0,0:22:21.36,0:22:23.65,EDCN,,0,0,0,karaoke,{\\blur2\fad(115,115)}閉上雙眼  I  Miss  You
-Dialogue: 0,0:22:23.65,0:22:30.85,EDCN,,0,0,0,karaoke,{\\blur2\fad(115,115)}祈禱之辭和許願之辭的不同
-Dialogue: 0,0:22:31.04,0:22:34.53,EDCN,,0,0,0,karaoke,{\\blur2\fad(115,115)}就彷彿如水中若隱若顯的星星
-Dialogue: 0,0:22:34.75,0:22:38.39,EDCN,,0,0,0,karaoke,{\\blur2\fad(115,115)}能做到的  從明天起再努力吧
+Dialogue: 0,0:22:01.52,0:22:04.76,EDCN,,0,0,0,karaoke,{\blur2\fad(115,115)}所以說無論多少次
+Dialogue: 0,0:22:05.19,0:22:08.68,EDCN,,0,0,0,karaoke,{\blur2\fad(115,115)}我都會不斷嘗試
+Dialogue: 0,0:22:08.89,0:22:16.05,EDCN,,0,0,0,karaoke,{\blur2\fad(115,115)}明天起床後再別尋他途
+Dialogue: 0,0:22:19.23,0:22:21.14,EDCN,,0,0,0,karaoke,{\blur2\fad(115,115)}Good  Night  My  Friends
+Dialogue: 0,0:22:21.36,0:22:23.65,EDCN,,0,0,0,karaoke,{\blur2\fad(115,115)}閉上雙眼  I  Miss  You
+Dialogue: 0,0:22:23.65,0:22:30.85,EDCN,,0,0,0,karaoke,{\blur2\fad(115,115)}祈禱之辭和許願之辭
+Dialogue: 0,0:22:31.04,0:22:34.53,EDCN,,0,0,0,karaoke,{\blur2\fad(115,115)}對孩子來說才有所不同
+Dialogue: 0,0:22:34.75,0:22:38.39,EDCN,,0,0,0,karaoke,{\blur2\fad(115,115)}能做到的  從明天起再努力吧
 Dialogue: 0,0:22:39.10,0:22:42.38,EDCN,,0,0,0,karaoke,{\blur2\fad(115,115)}好好休息一下吧
 Dialogue: 0,0:22:42.82,0:22:46.34,EDCN,,0,0,0,karaoke,{\blur2\fad(115,115)}放緩步調才能更加努力
 Dialogue: 0,0:22:47.20,0:22:50.06,EDCN,,0,0,0,karaoke,{\blur2\fad(115,115)}有一個大大的夢想
