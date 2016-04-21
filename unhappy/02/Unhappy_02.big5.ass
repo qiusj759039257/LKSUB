@@ -15,8 +15,8 @@ Audio File: Unhappy_02.mp4
 Video File: Unhappy_02.gb.avs
 Video AR Value: 1.777778
 Video Zoom Percent: 0.687500
-Scroll Position: 347
-Active Line: 363
+Scroll Position: 353
+Active Line: 362
 Video Position: 34143
 
 [V4+ Styles]
@@ -393,6 +393,6 @@ Dialogue: 0,0:22:01.63,0:22:02.86,Default,,0,0,0,,蓮 蓮
 Dialogue: 0,0:22:03.43,0:22:05.15,Default,,0,0,0,,沒事吧 還活著吧
 Dialogue: 0,0:22:06.64,0:22:07.57,Default,,0,0,0,,勉強
 Dialogue: 0,0:22:08.81,0:22:12.37,Default,,0,0,0,,那兩個人也挺不幸的呢
-Dialogue: 0,0:23:44.02,0:23:49.03,Title2,,0,0,0,,{@\an7\fsp5\fay0.5\fscx80\fn方正综艺_GBK\c&H678DF9&\pos(431.2,458.4)}初次的幸
-Dialogue: 0,0:23:44.02,0:23:49.03,Title2,,0,0,0,,{@\fn方正综艺_GBK\c&H678DF9&\pos(640,628)}福
-Dialogue: 0,0:23:44.02,0:23:49.03,Title2,,0,0,0,,{@\an1\fsp5\fscx80\fay-0.40\fn方正综艺_GBK\c&H678DF9&\pos(668.8,629.6)}應用技巧
+Dialogue: 0,0:23:44.02,0:23:49.03,Title2,,0,0,0,,{@\an7\fs60\fsp5\fay0.5\fscx80\fn方正综艺_GBK\c&H678DF9&\pos(477.745,486.036)}第一次
+Dialogue: 0,0:23:44.02,0:23:49.03,Title2,,0,0,0,,{@\fs60\fn方正综艺_GBK\c&H678DF9&\pos(640,628)}的
+Dialogue: 0,0:23:44.02,0:23:49.03,Title2,,0,0,0,,{@\an1\fs60\fsp5\fscx80\fay-0.40\fn方正综艺_GBK\c&H678DF9&\pos(668.8,629.6)}幸福實訓

@@ -11,13 +11,12 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Unhappy_02.mp4
-Video File: Unhappy_02.gb.avs
+Video File: ?dummy:23.976000:40000:1280:720:0:128:255:c
 Video AR Value: 1.777778
-Video Zoom Percent: 0.687500
-Scroll Position: 58
-Active Line: 77
-Video Position: 7118
+Video Zoom Percent: 0.375000
+Scroll Position: 353
+Active Line: 363
+Video Position: 34143
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -393,6 +392,6 @@ Dialogue: 0,0:22:01.63,0:22:02.86,Default,,0,0,0,,莲 莲
 Dialogue: 0,0:22:03.43,0:22:05.15,Default,,0,0,0,,没事吧 还活着吧
 Dialogue: 0,0:22:06.64,0:22:07.57,Default,,0,0,0,,勉强
 Dialogue: 0,0:22:08.81,0:22:12.37,Default,,0,0,0,,那两个人也挺不幸的呢
-Dialogue: 0,0:23:44.02,0:23:49.03,Title2,,0,0,0,,{@\an7\fsp5\fay0.5\fscx80\fn方正综艺_GBK\c&H678DF9&\pos(431.2,458.4)}初次的幸
-Dialogue: 0,0:23:44.02,0:23:49.03,Title2,,0,0,0,,{@\fn方正综艺_GBK\c&H678DF9&\pos(640,628)}福
-Dialogue: 0,0:23:44.02,0:23:49.03,Title2,,0,0,0,,{@\an1\fsp5\fscx80\fay-0.40\fn方正综艺_GBK\c&H678DF9&\pos(668.8,629.6)}应用技巧
+Dialogue: 0,0:23:44.02,0:23:49.03,Title2,,0,0,0,,{@\an7\fs60\fsp5\fay0.5\fscx80\fn方正综艺_GBK\c&H678DF9&\pos(477.745,486.036)}第一次
+Dialogue: 0,0:23:44.02,0:23:49.03,Title2,,0,0,0,,{@\fs60\fn方正综艺_GBK\c&H678DF9&\pos(640,628)}的
+Dialogue: 0,0:23:44.02,0:23:49.03,Title2,,0,0,0,,{@\an1\fs60\fsp5\fscx80\fay-0.40\fn方正综艺_GBK\c&H678DF9&\pos(668.8,629.6)}幸福实训
