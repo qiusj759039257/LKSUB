@@ -12,14 +12,14 @@ Aegisub Video Aspect Ratio: c1.777778
 
 [Aegisub Project Garbage]
 Last Style Storage: RE_ZERO
-Audio File: [Leopard-Raws] Re - Zero kara Hajimeru Isekai Seikatsu - 03 RAW (TX 1280x720 x264 AAC).mp4
-Video File: [Leopard-Raws] Re - Zero kara Hajimeru Isekai Seikatsu - 03 RAW (TX 1280x720 x264 AAC).mp4
+Audio File: D:/Anime/[Ohys-Raws] Re - Zero Kara Hajimeru Isekai Seikatsu - 03 (TX 1280x720 x264 AAC).mp4
+Video File: D:/Anime/[Ohys-Raws] Re - Zero Kara Hajimeru Isekai Seikatsu - 03 (TX 1280x720 x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 211
-Active Line: 229
-Video Position: 23491
+Scroll Position: 216
+Active Line: 228
+Video Position: 20484
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -243,7 +243,7 @@ Dialogue: 0,0:12:50.16,0:12:51.70,Default,,0,0,0,,你就是「獵腸者」吧
 Dialogue: 0,0:12:52.54,0:12:54.75,Default,,0,0,0,,這超危險的名字是怎麼一回事啊
 Dialogue: 0,0:12:55.50,0:12:58.71,Default,,0,0,0,,是從她殺人方式的特徵得來的稱號
 Dialogue: 0,0:12:59.09,0:13:02.05,Default,,0,0,0,,作為危險人物 在王都也有被通報
-Dialogue: 0,0:13:02.67,0:13:04.47,Default,,0,0,0,,萊茵哈魯特 先生
+Dialogue: 0,0:13:02.67,0:13:04.47,Default,,0,0,0,,萊茵哈魯特 是嗎
 Dialogue: 0,0:13:05.01,0:13:08.05,Default,,0,0,0,,騎士中的騎士 是劍聖的家系呢
 Dialogue: 0,0:13:08.39,0:13:11.60,Default,,0,0,0,,好棒 居然盡是這麼有意思的對手
 Dialogue: 0,0:13:12.27,0:13:15.98,Default,,0,0,0,,我有很多話想要問你 建議你投降如何？
@@ -260,8 +260,8 @@ Dialogue: 0,0:13:55.14,0:13:57.19,Default,,0,0,0,,我要以救活他這份恩情
 Dialogue: 0,0:13:57.77,0:14:00.56,Default,,0,0,0,,面對救命恩人一定無法說謊的
 Dialogue: 0,0:14:01.40,0:14:03.53,Default,,0,0,0,,這也是為了我自己的行為
 Dialogue: 0,0:14:05.99,0:14:08.82,Default,,0,0,0,,我不想對女性太過粗暴
-Dialogue: 0,0:14:14.33,0:14:15.33,Default,,0,0,0,,人如其名
-Dialogue: 0,0:14:15.45,0:14:19.54,Default,,0,0,0,,不 百聞不如一見呢
+Dialogue: 0,0:14:14.33,0:14:15.33,Default,,0,0,0,,名副其實…
+Dialogue: 0,0:14:15.45,0:14:19.54,Default,,0,0,0,,不 你是超越傳聞的存在呢
 Dialogue: 0,0:14:19.79,0:14:21.63,Default,,0,0,0,,不知這能否回應你的期待呢
 Dialogue: 0,0:14:21.92,0:14:24.13,Default,,0,0,0,,腰上這把劍你不用嗎
 Dialogue: 0,0:14:24.63,0:14:27.84,Default,,0,0,0,,我還想試試這傳說中的鋒利度呢
