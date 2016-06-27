@@ -16,12 +16,11 @@ Video File: Charlotte_OP.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 73
-Active Line: 80
-Video Position: 2482
+Video Position: 954
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Logo,Arial,60,&H00CAB23C,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,3,10,10,10,1
 Style: OPJP2-furigana,DFMaruGothic-Lt,15,&H00FFFFFF,&HFF0000FF,&H4048670A,&H00000000,0,0,0,0,100,100,0,0,1,1,0,8,20,20,20,1
 Style: OPJP-furigana,DFPHSGothic-W5,15,&H00FFFFFF,&H000000FF,&H00BAE55E,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,20,20,20,1
 Style: OPJP,DFGGothicP-W2,30,&H00FFFFFF,&HFF0000FF,&H4048670A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
@@ -29,6 +28,14 @@ Style: OPJP2,DFMaruGothic-Lt,30,&H00FFFFFF,&HFF0000FF,&H4048670A,&H00000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:33.01,0:00:33.01,Logo,,0,0,0,,>>>>> FIRST FRAME OF OP<<<<<
+Dialogue: 0,0:00:33.47,0:00:34.17,Logo,,0,0,0,,{\an5\alpha&H40&\fn幼圆\b1\fs120\fad(500,500)\t(0.3,\fs60)\pos(640,554.4)\c&HBA3F1C&}轻之国度字幕组
+Dialogue: 0,0:00:34.30,0:00:36.47,Logo,,0,0,0,,{\an5\fn幼圆\b1\fs70\t(\fs60)\pos(640,554.4)\c&H867011&\t(0,350,\c&H71E2F5&)\t(350,500,\c&HF1FDFD&)}轻之国度字幕组
+Dialogue: 0,0:00:36.47,0:00:38.35,Logo,,0,0,0,,{\an5\fn幼圆\b1\fs60\c&HF1FDFD&)\fad(0,300)\move(640,554.4,598,554.4,63,397)}轻之国度字幕组
+Dialogue: 0,0:00:35.72,0:00:38.35,Logo,,0,0,0,,{\fnDFGSoGeiG-W5\fscx103\fscy103\t(0,775,\fscx100\fscy100)\t(500,1000,\c&H201F1B&)\fs25\b1\c&HEAFBFD&\move(824,612.4,782,612.4,813,1147)\fad(0,300)}Philosophy Gentlemen Group
+Dialogue: 0,0:00:35.63,0:00:35.93,Logo,,0,0,0,,{\an7\blur1\fscx10\fscy10\t(0.5,\fscx300\fscy300)\c&H5FD1E4&\fad(0,100)\be1\p1\bord0\pos(662,600)}m 0 -30 l 2 -2 l 30 0 l 2 2 l 0 30 l -2 2 l -30 0 l -2 -2
+Dialogue: 0,0:00:36.84,0:00:38.35,Logo,,0,0,0,,{\an7\blur4\fad(200,300)\t(0,200,\blur0)\c&HF2FFFF&\t(500,900,\c&HB7E360&)\be1\p1\bord0\pos(800,593.6)}m 2 -4 l 0 -27 l -2 -4 l -20 -20 l -5 -2 l -28 0 l -5 2 l -20 20 l -2 4 l 0 27 l 2 4 l 20 20 l 5 2 l 28 0 l 5 -2 b 129 -124 15 -144 -78 -65 b 31 -142 105 -108 2 -4
+Dialogue: 0,0:00:35.63,0:00:35.97,Logo,,0,0,0,,{\an7\3a&H80&\3c&FFFF80&\bord10\p1\fscx5\fscy5\1a&HA0&\pos(662,600)\t(0,200,\1a&HFF&)\t(0.5,\fscx400\fscy400\bord1)\fad(100,100)}m 0 -30 b -40 -30 -40 30 0 30 b 40 30 40 -30 0 -30
 Comment: 0,0:00:00.00,0:00:00.00,OPJP,,0,0,0,,======================================== INFO ========================================
 Comment: 0,0:00:00.00,0:00:00.00,OPJP,,0,0,0,,150 BPM
 Comment: 0,0:00:00.00,0:00:00.00,OPJP,,0,0,0,,400 MS/BEAT
