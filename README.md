@@ -8,6 +8,7 @@ LKSUB
     - [おしえて！ ギャル子ちゃん / 百无禁忌！女高中生私房话](jk)
     - [紅殻のパンドラ -GHOST URN- / 红壳的潘朵拉 -GHOST URN-](pandora)
     - [僕だけがいない街 / 只有我不存在的城市](bokumachi)
+    - [ニューゲーム / NEW GAME!](new_game)
 - 2015
     - [落第騎士の英雄譚 / 落第骑士英雄谭](rakudai)
     - [Charlotte / 夏洛特](charlotte)
