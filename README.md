@@ -10,6 +10,7 @@ LKSUB
     - [僕だけがいない街 / 只有我不存在的城市](bokumachi)
     - [あんハピ♪ / Unhappy](unhappy)
     - [パンでPeace! / Pan de Peace! / 面包日常！](pan)
+    - [ニューゲーム / NEW GAME!](new_game)
 - 2015
     - [落第騎士の英雄譚 / 落第骑士英雄谭](rakudai)
     - [Charlotte / 夏洛特](charlotte)
