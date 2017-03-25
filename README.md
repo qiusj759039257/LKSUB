@@ -4,6 +4,9 @@ LKSUB
 
 # Content
 
+- 2017
+    - [亜人ちゃんは語りたい / 亚人酱有话要说 ](demichan)
+
 - 2016
     - [おしえて！ ギャル子ちゃん / 百无禁忌！女高中生私房话](jk)
     - [紅殻のパンドラ -GHOST URN- / 红壳的潘朵拉 -GHOST URN-](pandora)
