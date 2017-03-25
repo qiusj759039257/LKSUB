@@ -15,6 +15,8 @@ LKSUB
     - [あんハピ♪ / Unhappy](unhappy)
     - [パンでPeace! / Pan de Peace! / 面包日常！](pan)
     - [ニューゲーム / NEW GAME!](new_game)
+    - [タブー·タトゥー / TABOO TATTOO－禁忌咒纹－](taboo)
+
 - 2015
     - [落第騎士の英雄譚 / 落第骑士英雄谭](rakudai)
     - [Charlotte / 夏洛特](charlotte)
