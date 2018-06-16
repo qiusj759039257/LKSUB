@@ -6,6 +6,9 @@ LKSUB
 
 # Content
 
+- 2018
+    - [スロウスタート / Slow Start](slowstart)
+
 - 2017
     - [亜人ちゃんは語りたい / 亚人酱有话要说 ](demichan)
     - [うらら迷路帖 / 乌菈菈迷路帖](urara)
