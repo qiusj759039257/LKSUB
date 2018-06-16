@@ -57,6 +57,7 @@ LKSUB
     - [閃乱カグラ / 闪乱神乐](senran)
     - [IS 〈インフィニット·ストラトス〉 2 / IS 〈Infinite Stratos〉 2](is2)
     - [百花繚乱 サムライブライド / 百花缭乱 SAMURAI BRIDE](hyakka2)
+    - [僕は友達が少ないNEXT / 我的朋友很少](haganai_next)
 
 - 2012
     - [はぐれ勇者の鬼畜美学 / 无赖勇者的鬼畜美学](hagure)
