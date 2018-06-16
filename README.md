@@ -8,6 +8,7 @@ LKSUB
 
 - 2018
     - [スロウスタート / Slow Start](slowstart)
+    - [ノーゲーム・ノーライフ ゼロ / NO GAME NO LIFE ZERO](ngnl_zero)
 
 - 2017
     - [亜人ちゃんは語りたい / 亚人酱有话要说 ](demichan)
