@@ -1,12 +1,34 @@
 # About
 
+![face](face.png)
+
 LKSUB
 
 # Content
 
+- 2018
+    - [スロウスタート / Slow Start](slowstart)
+
+- 2017
+    - [亜人ちゃんは語りたい / 亚人酱有话要说 ](demichan)
+    - [うらら迷路帖 / 乌菈菈迷路帖](urara)
+    - [君の名は。 / 你的名字](your_name)
+    - [ブレンド・S / BlendS / 调教咖啡厅](blend-s)
+    - [ニューゲーム / NEW GAME!!](new_game_2)
+    - [冴えない彼女の育てかた♭ / 路人女主的养成方法♭](saenai_2)
+
+- 2016
+    - [おしえて！ ギャル子ちゃん / 百无禁忌！女高中生私房话](jk)
+    - [紅殻のパンドラ -GHOST URN- / 红壳的潘朵拉 -GHOST URN-](pandora)
+    - [僕だけがいない街 / 只有我不存在的城市](bokumachi)
+    - [あんハピ♪ / Unhappy](unhappy)
+    - [パンでPeace! / Pan de Peace! / 面包日常！](pan)
+    - [ニューゲーム / NEW GAME!](new_game)
+    - [タブー·タトゥー / TABOO TATTOO－禁忌咒纹－](taboo)
+
 - 2015
     - [落第騎士の英雄譚 / 落第骑士英雄谭](rakudai)
-    - [Charlotte](charlotte)
+    - [Charlotte / 夏洛特](charlotte)
     - [艦隊これくしょん -艦これ- / 舰队Collection](kancolle)
     - [ハイスクールD×D BorN / 恶魔高校D×D BorN](hsdxd_born)
     - [冴えない彼女の育てかた / 路人女主的养成方法](saenai)
@@ -14,6 +36,8 @@ LKSUB
     - [俺がお嬢様学校に「庶民サンプル」として拉致られた件 / 我被绑架到贵族女校当“庶民样本”](shomin)
     - [新妹魔王の契約者 / 新妹魔王的契约者](shinmai)
     - [やはり俺の青春ラブコメはまちがっている。続 / 我的青春恋爱喜剧果然有问题续](oregairu2)
+    - [ランス·アンド·マスクス / Lance N' Masques / 枪与假面](lance)
+
 - 2014
     - [六畳間の侵略者!? / 三坪房间的侵略者！？](rokujouma)
     - [デンキ街の本屋さん / 电器街的漫画店](denkigai)
@@ -24,12 +48,15 @@ LKSUB
     - [グリザイアの果実 / 灰色的果实](grisaia)
     - [月刊少女野崎くん / 月刊少女野崎同学](gekkan)
     - [マンガ家さんとアシスタントさんと / 漫画家与助手](mangakasan)
+
 - 2013
     - [やはり俺の青春ラブコメはまちがっている。 / 我的青春恋爱喜剧果然有问题](oregairu)
     - [ハイスクールD×D NEW / 恶魔高校D×D New](hsdxd_new)
     - [言の葉の庭 / 言叶之庭](kotonoha)
     - [まおゆう魔王勇者 / 魔王勇者](maoyuu)
     - [閃乱カグラ / 闪乱神乐](senran)
+    - [IS 〈インフィニット·ストラトス〉 2 / IS 〈Infinite Stratos〉 2](is2)
+
 - 2012
     - [はぐれ勇者の鬼畜美学 / 无赖勇者的鬼畜美学](hagure)
     - [Another](another)
@@ -37,6 +64,7 @@ LKSUB
     - [織田信奈の野望 / 织田信奈的野望](oda_nobuna)
     - [お兄ちゃんだけど愛さえあれば関係ないよねっ / 就算是哥哥，有爱就没问题了，对吧](oniichan_ai)
     - [パパのいうことを聞きなさい! / 要听爸爸的话！](papakiki)
+
 - 2011
     - [とある飛空士への追憶 / 对某飞行员的追忆](hikuushi)
     - [R-15](r15)
