@@ -6,11 +6,17 @@ LKSUB
 
 # Content
 
+- 2018
+    - [スロウスタート / Slow Start](slowstart)
+    - [ノーゲーム・ノーライフ ゼロ / NO GAME NO LIFE ZERO](ngnl_zero)
+
 - 2017
     - [亜人ちゃんは語りたい / 亚人酱有话要说 ](demichan)
     - [うらら迷路帖 / 乌菈菈迷路帖](urara)
     - [君の名は。 / 你的名字](your_name)
     - [ブレンド・S / BlendS / 调教咖啡厅](blend-s)
+    - [ニューゲーム / NEW GAME!!](new_game_2)
+    - [冴えない彼女の育てかた♭ / 路人女主的养成方法♭](saenai_2)
 
 - 2016
     - [おしえて！ ギャル子ちゃん / 百无禁忌！女高中生私房话](jk)
@@ -51,6 +57,8 @@ LKSUB
     - [まおゆう魔王勇者 / 魔王勇者](maoyuu)
     - [閃乱カグラ / 闪乱神乐](senran)
     - [IS 〈インフィニット·ストラトス〉 2 / IS 〈Infinite Stratos〉 2](is2)
+    - [百花繚乱 サムライブライド / 百花缭乱 SAMURAI BRIDE](hyakka2)
+    - [僕は友達が少ないNEXT / 我的朋友很少](haganai_next)
 
 - 2012
     - [はぐれ勇者の鬼畜美学 / 无赖勇者的鬼畜美学](hagure)
@@ -64,3 +72,9 @@ LKSUB
     - [とある飛空士への追憶 / 对某飞行员的追忆](hikuushi)
     - [R-15](r15)
     - [UN-GO](ungo)
+    - [境界線上のホライゾン / 境界线上的地平线](jjx)
+    - [C³ -シーキューブ- / C³ / C³ -魔方少女-](c3)
+    - [僕は友達が少ない / 我的朋友很少](haganai)
+    - [ロウきゅーぶ! / 萝球社！](roukyubu)
+    - [NO.6 / 未来都市NO.6](no6)
+    - [いつか天魔の黒ウサギ / 曾几何时天魔的黑兔](kurousagi)
