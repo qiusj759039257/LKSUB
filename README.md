@@ -22,6 +22,7 @@ LKSUB
     - [おしえて！ ギャル子ちゃん / 百无禁忌！女高中生私房话](jk)
     - [紅殻のパンドラ -GHOST URN- / 红壳的潘朵拉 -GHOST URN-](pandora)
     - [僕だけがいない街 / 只有我不存在的城市](bokumachi)
+    - [Re:ゼロから始める異世界生活 / Re：从零开始的异世界生活](re_zero)
     - [あんハピ♪ / Unhappy](unhappy)
     - [パンでPeace! / Pan de Peace! / 面包日常！](pan)
     - [ニューゲーム / NEW GAME!](new_game)
