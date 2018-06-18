@@ -25,6 +25,7 @@ LKSUB
     - [Re:ゼロから始める異世界生活 / Re：从零开始的异世界生活](re_zero)
     - [あんハピ♪ / Unhappy](unhappy)
     - [パンでPeace! / Pan de Peace! / 面包日常！](pan)
+    - [クロムクロ / 黑骸](kuromukuro)
     - [ニューゲーム / NEW GAME!](new_game)
     - [タブー·タトゥー / TABOO TATTOO－禁忌咒纹－](taboo)
 
