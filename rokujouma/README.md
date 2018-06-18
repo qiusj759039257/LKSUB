@@ -33,16 +33,3 @@
 ## HP
 
 http://corona106.tv/
- 
-## LINKS
-
-更多轻小说汉化请前往：
- 
-轻之国度-在线轻小说-轻小说下载-原创轻小说的聚集地<br>
-http://lightnovel.cn/forum.php
- 
-轻之国度在线轻小说|提供最新最全的日本轻小说阅读<br>
-http://lknovel.lightnovel.cn/
- 
-翻译  时轴  后期  繁化  分流  绝赞招募中<br>
-QQ群号：66474076
