@@ -50,6 +50,7 @@ LKSUB
     - [月刊少女野崎くん / 月刊少女野崎同学](gekkan)
     - [マンガ家さんとアシスタントさんと / 漫画家与助手](mangakasan)
     - [ノーゲーム・ノーライフ / NO GAME NO LIFE](ngnl)
+    - [そにアニ / SONIANI -SUPER SONICO THE ANIMATION- / 超级索尼子](soniani)
 
 - 2013
     - [やはり俺の青春ラブコメはまちがっている。 / 我的青春恋爱喜剧果然有问题](oregairu)
