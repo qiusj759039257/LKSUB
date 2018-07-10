@@ -9,6 +9,7 @@ LKSUB
 - 2018
     - [スロウスタート / Slow Start](slowstart)
     - [ノーゲーム・ノーライフ ゼロ / NO GAME NO LIFE ZERO](ngnl_zero)
+    - [すのはら荘の管理人さん / 春原庄的管理员小姐](sunoharasou)
 
 - 2017
     - [亜人ちゃんは語りたい / 亚人酱有话要说 ](demichan)
