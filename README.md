@@ -9,7 +9,11 @@ LKSUB
 - 2018
     - [スロウスタート / Slow Start](slowstart)
     - [ノーゲーム・ノーライフ ゼロ / NO GAME NO LIFE ZERO](ngnl_zero)
-    - [立花館To Lieあんぐる  / 立花馆恋爱三角关系](tachibanakan)
+    - [立花館To Lieあんぐる / 立花馆恋爱三角关系](tachibanakan)
+    - [すのはら荘の管理人さん / 春原庄的管理员小姐](sunoharasou)
+    - [はるかなレシーブ / 遥的接球](harukana)
+    - [俺が好きなのは妹だけど妹じゃない / 我喜欢的妹妹不是妹妹](imoimo)
+    - [アニマエール! / Anima Yell!](animayell)
 
 - 2017
     - [亜人ちゃんは語りたい / 亚人酱有话要说 ](demichan)
