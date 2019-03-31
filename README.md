@@ -6,6 +6,10 @@ LKSUB
 
 # Content
 
+- 2019
+    - [えんどろ〜！ / Endro~!](endro)
+    - [私に天使が舞い降りた! / E天使降临到了我身边！](wataten)
+
 - 2018
     - [スロウスタート / Slow Start](slowstart)
     - [ノーゲーム・ノーライフ ゼロ / NO GAME NO LIFE ZERO](ngnl_zero)
