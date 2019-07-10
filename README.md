@@ -9,6 +9,7 @@ LKSUB
 - 2019
     - [えんどろ〜！ / Endro~!](endro)
     - [私に天使が舞い降りた! / E天使降临到了我身边！](wataten)
+    - [異世界かるてっと / 异世界四重奏](isekai)
 
 - 2018
     - [スロウスタート / Slow Start](slowstart)
