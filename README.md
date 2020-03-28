@@ -18,6 +18,7 @@ LKSUB
     - [まちカドまぞく / 街角魔族](machikado)
     - [からかい上手の高木さん2 / 擅长捉弄的高木同学2](takagi2)
     - [ダンジョンに出会いを求めるのは間違っているだろうかII / 在地下城寻求邂逅是否搞错了什么2](danmachi2)
+    - [神田川JET GIRLS](kjganime)
 - 2018
     - [スロウスタート / Slow Start](slowstart)
     - [ノーゲーム・ノーライフ ゼロ / NO GAME NO LIFE ZERO](ngnl_zero)
