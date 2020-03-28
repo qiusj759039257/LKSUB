@@ -13,10 +13,10 @@ LKSUB
     - [ひとりぼっちの○○生活 / 一个人的○○小日子](bocchi)
     - [世話やきキツネの仙狐さん / 贤惠幼妻仙狐小姐](senkosan)
     - [ダンベル何キロ持てる？ / 流汗吧！健身少女 / 肌肉少女：哑铃，能举多少公斤？](dumbbell)
+    - [俺を好きなのはお前だけかよ / 喜欢本大爷的竟然就你一个？](oresuki)
     - [まちカドまぞく / 街角魔族](machikado)
     - [からかい上手の高木さん2 / 擅长捉弄的高木同学2](takagi2)
     - [ダンジョンに出会いを求めるのは間違っているだろうかII / 在地下城寻求邂逅是否搞错了什么2](danmachi2)
-
 - 2018
     - [スロウスタート / Slow Start](slowstart)
     - [ノーゲーム・ノーライフ ゼロ / NO GAME NO LIFE ZERO](ngnl_zero)
@@ -25,7 +25,6 @@ LKSUB
     - [はるかなレシーブ / 遥的接球](harukana)
     - [俺が好きなのは妹だけど妹じゃない / 我喜欢的妹妹不是妹妹](imoimo)
     - [アニマエール! / Anima Yell!](animayell)
-
 - 2017
     - [亜人ちゃんは語りたい / 亚人酱有话要说 ](demichan)
     - [うらら迷路帖 / 乌菈菈迷路帖](urara)
@@ -33,7 +32,6 @@ LKSUB
     - [ブレンド・S / BlendS / 调教咖啡厅](blend-s)
     - [ニューゲーム / NEW GAME!!](new_game_2)
     - [冴えない彼女の育てかた♭ / 路人女主的养成方法♭](saenai_2)
-
 - 2016
     - [おしえて！ ギャル子ちゃん / 百无禁忌！女高中生私房话](jk)
     - [紅殻のパンドラ -GHOST URN- / 红壳的潘朵拉 -GHOST URN-](pandora)
@@ -44,7 +42,6 @@ LKSUB
     - [クロムクロ / 黑骸](kuromukuro)
     - [ニューゲーム / NEW GAME!](new_game)
     - [タブー·タトゥー / TABOO TATTOO－禁忌咒纹－](taboo)
-
 - 2015
     - [落第騎士の英雄譚 / 落第骑士英雄谭](rakudai)
     - [Charlotte / 夏洛特](charlotte)
@@ -56,7 +53,6 @@ LKSUB
     - [新妹魔王の契約者 / 新妹魔王的契约者](shinmai)
     - [やはり俺の青春ラブコメはまちがっている。続 / 我的青春恋爱喜剧果然有问题续](oregairu2)
     - [ランス·アンド·マスクス / Lance N' Masques / 枪与假面](lance)
-
 - 2014
     - [六畳間の侵略者!? / 三坪房间的侵略者！？](rokujouma)
     - [デンキ街の本屋さん / 电器街的漫画店](denkigai)
@@ -69,7 +65,6 @@ LKSUB
     - [マンガ家さんとアシスタントさんと / 漫画家与助手](mangakasan)
     - [ノーゲーム・ノーライフ / NO GAME NO LIFE](ngnl)
     - [そにアニ / SONIANI -SUPER SONICO THE ANIMATION- / 超级索尼子](soniani)
-
 - 2013
     - [やはり俺の青春ラブコメはまちがっている。 / 我的青春恋爱喜剧果然有问题](oregairu)
     - [ハイスクールD×D NEW / 恶魔高校D×D New](hsdxd_new)
@@ -79,7 +74,6 @@ LKSUB
     - [IS 〈インフィニット·ストラトス〉 2 / IS 〈Infinite Stratos〉 2](is2)
     - [百花繚乱 サムライブライド / 百花缭乱 SAMURAI BRIDE](hyakka2)
     - [僕は友達が少ないNEXT / 我的朋友很少](haganai_next)
-
 - 2012
     - [はぐれ勇者の鬼畜美学 / 无赖勇者的鬼畜美学](hagure)
     - [Another](another)
@@ -88,7 +82,6 @@ LKSUB
     - [お兄ちゃんだけど愛さえあれば関係ないよねっ / 就算是哥哥，有爱就没问题了，对吧](oniichan_ai)
     - [パパのいうことを聞きなさい! / 要听爸爸的话！](papakiki)
     - [人類は衰退しました / 人类衰退之后](jintai)
-
 - 2011
     - [とある飛空士への追憶 / 对某飞行员的追忆](hikuushi)
     - [R-15](r15)
