@@ -5,6 +5,9 @@
 LKSUB
 
 # Content
+- 2025
+    - [mono / mono女孩](mono-weekend)
+    - [ちゃんと吸えない吸血鬼ちゃん / 不擅吸血的吸血鬼](kyuketsuki-chan)
 - 2024
     - [魔法少女にあこがれて / 梦想成为魔法少女 / 憧憬成为魔法少女](mahoako)
     - [ささやくように恋を唄う / 恋语轻唱 / 恰如细语般的恋歌](sasakoi)
